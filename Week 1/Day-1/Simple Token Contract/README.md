@@ -81,7 +81,7 @@ After deployment, interact with the contract by:
 
 ## Security Considerations
 
-- This is a learning project and has not been audited for production use, so please don't be dumb and deploy this to a mainnet
+- This is a learning project and has not been audited for production use, so please don't be dumb and deploy this to a mainnet.
 - It lacks advanced features like minting, burning, or pausing.
 - Always exercise caution when approving addresses to spend tokens on your behalf.
 
