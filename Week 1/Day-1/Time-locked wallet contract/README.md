@@ -69,7 +69,7 @@ While this contract provides basic time-locked wallet functionality, consider th
 ## Future Improvements
 Potential enhancements to explore:
 
--Implement multi-sig functionality to require multiple approvals for withdrawals.
--Add the ability to set a withdrawal schedule or recurring withdrawals.
--Improve security by adding emergency withdrawal functionality with a timelock.
--Explore integration with decentralized identity solutions to enhance access control.
+- Implement multi-sig functionality to require multiple approvals for withdrawals.
+- Add the ability to set a withdrawal schedule or recurring withdrawals.
+- Improve security by adding emergency withdrawal functionality with a timelock.
+- Explore integration with decentralized identity solutions to enhance access control.
